@@ -1,4 +1,4 @@
-# Chereka Pay (MVP)
+# Chereka Pay 
 
 Chereka Pay is a payment and identity gateway built for Ethiopia.  
 It connects global crypto rails with local financial systems so merchants and miners can accept Bitcoin and stablecoins, convert them to Ethiopian Birr (ETB) through Chapa, and receive verified payouts — all with intelligent assistance from Chereka AI.
@@ -7,7 +7,7 @@ This repository contains the alpha MVP: an in-development implementation intende
 
 ---
 
-## What Chereka Pay does (in one sentence)
+## What Chereka Pay does 
 
 Chereka Pay accepts crypto payments, converts them to ETB via Chapa, verifies users with Fayda National ID and AfroSMS OTP, and provides an intelligent interface through Chereka AI so users can manage payments in Amharic, Afaan Oromo, and English.
 
@@ -25,7 +25,7 @@ Chereka Pay solves these problems by linking Bitcoin and stablecoin payments dir
 
 ---
 
-## MVP Features (Alpha)
+## MVP Features 
 
 - Accept Bitcoin and supported stablecoins via QR code and wallet connect.  
 - Auto-convert crypto to ETB and payout via Chapa API.  
@@ -37,7 +37,7 @@ Chereka Pay solves these problems by linking Bitcoin and stablecoin payments dir
 
 ---
 
-## How it works (simple flow)
+## How it works
 
 1. A customer pays the merchant in BTC or a supported stablecoin.  
 2. Chereka Pay quotes and converts the received crypto to ETB using a trusted on-ramp.  
@@ -74,12 +74,4 @@ This integration makes Chereka Pay a tool not only for payments but for learning
 - Security: TLS/HTTPS, encrypted payloads, minimal personal data retention, and audit logs.
 
 ---
-
-## Local development / quick start (developer notes)
-
-> These are example commands and environment variables for local development. Replace placeholder values with real keys for production use.
-
-1. Clone the repo
-```bash
-git clone https://github.com/your-org/chereka-pay.git
-cd chereka-pay
+Undr Chereka AI
