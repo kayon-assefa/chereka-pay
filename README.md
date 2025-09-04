@@ -74,4 +74,4 @@ This integration makes Chereka Pay a tool not only for payments but for learning
 - Security: TLS/HTTPS, encrypted payloads, minimal personal data retention, and audit logs.
 
 ---
-Undr Chereka AI
+Under Chereka AI
