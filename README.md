@@ -64,9 +64,8 @@ This integration makes Chereka Pay a tool not only for payments but for learning
 
 ## Tech snapshot
 
-- Frontend: React (Vite), Tailwind CSS (mobile-first).  
-- Backend: Node.js + PostgreSQL (alpha).  
-- Authentication: Firebase Auth (alpha for authentication flows).  
+  
+- Authentication: Better Auth and Fayda national Id.  
 - Payments/On-ramps: Bitcoin and stablecoin gateway integrations + Chapa API for ETB payouts.  
 - Identity: Fayda National ID API.  
 - OTP: AfroSMS for two-factor authentication.  
